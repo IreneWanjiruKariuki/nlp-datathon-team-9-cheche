@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Secrets
+.env
+.env.*
+# Large raw archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar

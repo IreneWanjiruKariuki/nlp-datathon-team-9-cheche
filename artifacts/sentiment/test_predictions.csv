@@ -1,0 +1,25 @@
+record_id,language,text,label,source_dataset,source_version,source_record_id,source_url,source_method,licence_or_permission,contributor_code,reviewer_code,review_status,group_id,split,predicted
+sent-practice-033,en,I appreciated the booking system.,positive,starter_teaching_fixture,2.0,sp33,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-8,test,positive
+sent-practice-034,en,The booking system was excellent.,positive,starter_teaching_fixture,2.0,sp34,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-8,test,positive
+sent-practice-035,en,I am satisfied with the booking system.,positive,starter_teaching_fixture,2.0,sp35,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-8,test,positive
+sent-practice-036,en,The booking system worked very well for me.,positive,starter_teaching_fixture,2.0,sp36,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-8,test,positive
+sent-practice-037,en,I appreciated the student portal.,positive,starter_teaching_fixture,2.0,sp37,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-9,test,positive
+sent-practice-038,en,The student portal was excellent.,positive,starter_teaching_fixture,2.0,sp38,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-9,test,positive
+sent-practice-039,en,I am satisfied with the student portal.,positive,starter_teaching_fixture,2.0,sp39,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-9,test,positive
+sent-practice-040,en,The student portal worked very well for me.,positive,starter_teaching_fixture,2.0,sp40,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-positive-9,test,positive
+sent-practice-073,en,I was disappointed by the booking system.,negative,starter_teaching_fixture,2.0,sp73,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-8,test,negative
+sent-practice-074,en,The booking system was frustrating.,negative,starter_teaching_fixture,2.0,sp74,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-8,test,negative
+sent-practice-075,en,I am unhappy with the booking system.,negative,starter_teaching_fixture,2.0,sp75,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-8,test,negative
+sent-practice-076,en,The booking system failed to meet my needs.,negative,starter_teaching_fixture,2.0,sp76,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-8,test,negative
+sent-practice-077,en,I was disappointed by the student portal.,negative,starter_teaching_fixture,2.0,sp77,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-9,test,negative
+sent-practice-078,en,The student portal was frustrating.,negative,starter_teaching_fixture,2.0,sp78,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-9,test,negative
+sent-practice-079,en,I am unhappy with the student portal.,negative,starter_teaching_fixture,2.0,sp79,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-9,test,negative
+sent-practice-080,en,The student portal failed to meet my needs.,negative,starter_teaching_fixture,2.0,sp80,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-negative-9,test,negative
+sent-practice-113,en,The booking system is listed in the handbook.,neutral,starter_teaching_fixture,2.0,sp113,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-8,test,neutral
+sent-practice-114,en,There is a notice about the booking system.,neutral,starter_teaching_fixture,2.0,sp114,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-8,test,neutral
+sent-practice-115,en,I read the page about the booking system.,neutral,starter_teaching_fixture,2.0,sp115,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-8,test,neutral
+sent-practice-116,en,The schedule includes the booking system.,neutral,starter_teaching_fixture,2.0,sp116,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-8,test,neutral
+sent-practice-117,en,The student portal is listed in the handbook.,neutral,starter_teaching_fixture,2.0,sp117,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-9,test,neutral
+sent-practice-118,en,There is a notice about the student portal.,neutral,starter_teaching_fixture,2.0,sp118,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-9,test,neutral
+sent-practice-119,en,I read the page about the student portal.,neutral,starter_teaching_fixture,2.0,sp119,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-9,test,neutral
+sent-practice-120,en,The schedule includes the student portal.,neutral,starter_teaching_fixture,2.0,sp120,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,sent-neutral-9,test,neutral
