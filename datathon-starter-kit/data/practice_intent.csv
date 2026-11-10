@@ -1,0 +1,101 @@
+record_id,language,text,label,source_dataset,source_version,source_record_id,source_url,source_method,licence_or_permission,contributor_code,reviewer_code,review_status,group_id,split
+practice-001,en,Will it rain tomorrow?,weather_query,starter_teaching_fixture,2.0,p1,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g1,train
+practice-002,en,Tell me the weather in Nairobi.,weather_query,starter_teaching_fixture,2.0,p2,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g2,train
+practice-003,en,Is it sunny outside?,weather_query,starter_teaching_fixture,2.0,p3,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g3,train
+practice-004,en,Give me the forecast for Friday.,weather_query,starter_teaching_fixture,2.0,p4,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g4,train
+practice-005,en,Do I need an umbrella this afternoon?,weather_query,starter_teaching_fixture,2.0,p5,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g5,train
+practice-006,en,How warm will it be today?,weather_query,starter_teaching_fixture,2.0,p6,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g6,train
+practice-007,en,Are we expecting sunshine?,weather_query,starter_teaching_fixture,2.0,p7,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g7,dev
+practice-008,en,Check the weekend forecast.,weather_query,starter_teaching_fixture,2.0,p8,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g8,dev
+practice-009,en,Is the evening going to be cold?,weather_query,starter_teaching_fixture,2.0,p9,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g9,test
+practice-010,en,What is the weather like in Eldoret?,weather_query,starter_teaching_fixture,2.0,p10,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g10,test
+practice-011,en,What time is it?,datetime_query,starter_teaching_fixture,2.0,p11,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g11,train
+practice-012,en,Tell me today’s date.,datetime_query,starter_teaching_fixture,2.0,p12,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g12,train
+practice-013,en,Which day is today?,datetime_query,starter_teaching_fixture,2.0,p13,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g13,train
+practice-014,en,What is the current time?,datetime_query,starter_teaching_fixture,2.0,p14,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g14,train
+practice-015,en,Please tell me the time.,datetime_query,starter_teaching_fixture,2.0,p15,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g15,train
+practice-016,en,Which date is it today?,datetime_query,starter_teaching_fixture,2.0,p16,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g16,train
+practice-017,en,What day of the week is it?,datetime_query,starter_teaching_fixture,2.0,p17,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g17,dev
+practice-018,en,Can you check the clock?,datetime_query,starter_teaching_fixture,2.0,p18,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g18,dev
+practice-019,en,Tell me the current day.,datetime_query,starter_teaching_fixture,2.0,p19,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g19,test
+practice-020,en,I need to know today’s date.,datetime_query,starter_teaching_fixture,2.0,p20,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g20,test
+practice-021,en,Set an alarm for six.,alarm_set,starter_teaching_fixture,2.0,p21,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g21,train
+practice-022,en,Wake me at seven tomorrow.,alarm_set,starter_teaching_fixture,2.0,p22,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g22,train
+practice-023,en,Make an alarm ring at eight.,alarm_set,starter_teaching_fixture,2.0,p23,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g23,train
+practice-024,en,I need a morning alarm at five.,alarm_set,starter_teaching_fixture,2.0,p24,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g24,train
+practice-025,en,Create a wake-up alarm.,alarm_set,starter_teaching_fixture,2.0,p25,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g25,train
+practice-026,en,Please make an alarm for tomorrow morning.,alarm_set,starter_teaching_fixture,2.0,p26,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g26,train
+practice-027,en,Ring an alarm at noon.,alarm_set,starter_teaching_fixture,2.0,p27,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g27,dev
+practice-028,en,I want to be woken at dawn.,alarm_set,starter_teaching_fixture,2.0,p28,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g28,dev
+practice-029,en,Set a new alarm for Friday.,alarm_set,starter_teaching_fixture,2.0,p29,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g29,test
+practice-030,en,Could you arrange a morning wake-up alarm?,alarm_set,starter_teaching_fixture,2.0,p30,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g30,test
+practice-031,en,Add my project meeting for Friday.,calendar_set,starter_teaching_fixture,2.0,p31,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g31,train
+practice-032,en,Schedule a dentist appointment on Monday.,calendar_set,starter_teaching_fixture,2.0,p32,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g32,train
+practice-033,en,Put the seminar in my calendar.,calendar_set,starter_teaching_fixture,2.0,p33,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g33,train
+practice-034,en,Create an event for our class tomorrow.,calendar_set,starter_teaching_fixture,2.0,p34,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g34,train
+practice-035,en,Put lunch with my study group on the calendar.,calendar_set,starter_teaching_fixture,2.0,p35,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g35,train
+practice-036,en,Make a reminder for our afternoon seminar.,calendar_set,starter_teaching_fixture,2.0,p36,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g36,train
+practice-037,en,Book a calendar entry for the workshop.,calendar_set,starter_teaching_fixture,2.0,p37,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g37,dev
+practice-038,en,Create a reminder to submit my assignment.,calendar_set,starter_teaching_fixture,2.0,p38,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g38,dev
+practice-039,en,Schedule the team discussion for next week.,calendar_set,starter_teaching_fixture,2.0,p39,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g39,test
+practice-040,en,Add the library visit to my agenda.,calendar_set,starter_teaching_fixture,2.0,p40,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g40,test
+practice-041,en,What meetings do I have today?,calendar_query,starter_teaching_fixture,2.0,p41,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g41,train
+practice-042,en,Show my calendar for Friday.,calendar_query,starter_teaching_fixture,2.0,p42,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g42,train
+practice-043,en,When is my next appointment?,calendar_query,starter_teaching_fixture,2.0,p43,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g43,train
+practice-044,en,Read my events for tomorrow.,calendar_query,starter_teaching_fixture,2.0,p44,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g44,train
+practice-045,en,Check my appointments for next week.,calendar_query,starter_teaching_fixture,2.0,p45,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g45,train
+practice-046,en,What is scheduled this afternoon?,calendar_query,starter_teaching_fixture,2.0,p46,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g46,train
+practice-047,en,When does my calendar say the workshop is?,calendar_query,starter_teaching_fixture,2.0,p47,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g47,dev
+practice-048,en,List the events already on my agenda.,calendar_query,starter_teaching_fixture,2.0,p48,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g48,dev
+practice-049,en,Do I have any calendar entries tomorrow?,calendar_query,starter_teaching_fixture,2.0,p49,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g49,test
+practice-050,en,Show me my upcoming meetings.,calendar_query,starter_teaching_fixture,2.0,p50,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g50,test
+practice-051,en,Add bread to my shopping list.,lists_createoradd,starter_teaching_fixture,2.0,p51,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g51,train
+practice-052,en,Create a grocery list.,lists_createoradd,starter_teaching_fixture,2.0,p52,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g52,train
+practice-053,en,Put milk on the list.,lists_createoradd,starter_teaching_fixture,2.0,p53,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g53,train
+practice-054,en,Add rice to my shopping notes.,lists_createoradd,starter_teaching_fixture,2.0,p54,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g54,train
+practice-055,en,Put tea on my grocery list.,lists_createoradd,starter_teaching_fixture,2.0,p55,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g55,train
+practice-056,en,Make a packing list with a notebook.,lists_createoradd,starter_teaching_fixture,2.0,p56,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g56,train
+practice-057,en,Include pens in my shopping notes.,lists_createoradd,starter_teaching_fixture,2.0,p57,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g57,dev
+practice-058,en,I need to add soap to the list.,lists_createoradd,starter_teaching_fixture,2.0,p58,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g58,dev
+practice-059,en,Create a fresh list for school supplies.,lists_createoradd,starter_teaching_fixture,2.0,p59,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g59,test
+practice-060,en,Add beans to my groceries.,lists_createoradd,starter_teaching_fixture,2.0,p60,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g60,test
+practice-061,en,What is on my shopping list?,lists_query,starter_teaching_fixture,2.0,p61,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g61,train
+practice-062,en,Read my grocery list.,lists_query,starter_teaching_fixture,2.0,p62,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g62,train
+practice-063,en,Show the items on my packing list.,lists_query,starter_teaching_fixture,2.0,p63,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g63,train
+practice-064,en,Tell me what my list contains.,lists_query,starter_teaching_fixture,2.0,p64,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g64,train
+practice-065,en,Please show my existing list.,lists_query,starter_teaching_fixture,2.0,p65,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g65,train
+practice-066,en,Read out what I planned to buy.,lists_query,starter_teaching_fixture,2.0,p66,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g66,train
+practice-067,en,Which items are on my grocery notes?,lists_query,starter_teaching_fixture,2.0,p67,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g67,dev
+practice-068,en,Open the packing list for me.,lists_query,starter_teaching_fixture,2.0,p68,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g68,dev
+practice-069,en,Can you display my school-supplies list?,lists_query,starter_teaching_fixture,2.0,p69,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g69,test
+practice-070,en,What did I put on the shopping list?,lists_query,starter_teaching_fixture,2.0,p70,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g70,test
+practice-071,en,Play some music.,play_music,starter_teaching_fixture,2.0,p71,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g71,train
+practice-072,en,Start my favourite song.,play_music,starter_teaching_fixture,2.0,p72,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g72,train
+practice-073,en,Put on a jazz playlist.,play_music,starter_teaching_fixture,2.0,p73,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g73,train
+practice-074,en,I want to listen to music now.,play_music,starter_teaching_fixture,2.0,p74,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g74,train
+practice-075,en,Start playing my songs.,play_music,starter_teaching_fixture,2.0,p75,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g75,train
+practice-076,en,Please play a relaxing tune.,play_music,starter_teaching_fixture,2.0,p76,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g76,train
+practice-077,en,Put on some classical music.,play_music,starter_teaching_fixture,2.0,p77,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g77,dev
+practice-078,en,Begin the music playlist.,play_music,starter_teaching_fixture,2.0,p78,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g78,dev
+practice-079,en,Let me listen to a song.,play_music,starter_teaching_fixture,2.0,p79,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g79,test
+practice-080,en,Play a song for this evening.,play_music,starter_teaching_fixture,2.0,p80,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g80,test
+practice-081,en,Read the latest headlines.,news_query,starter_teaching_fixture,2.0,p81,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g81,train
+practice-082,en,What is in the news today?,news_query,starter_teaching_fixture,2.0,p82,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g82,train
+practice-083,en,Give me a news update.,news_query,starter_teaching_fixture,2.0,p83,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g83,train
+practice-084,en,Tell me the latest sports news.,news_query,starter_teaching_fixture,2.0,p84,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g84,train
+practice-085,en,Tell me today’s headlines.,news_query,starter_teaching_fixture,2.0,p85,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g85,train
+practice-086,en,Read an update from the news.,news_query,starter_teaching_fixture,2.0,p86,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g86,train
+practice-087,en,Show the latest local news.,news_query,starter_teaching_fixture,2.0,p87,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g87,dev
+practice-088,en,What are the main headlines this morning?,news_query,starter_teaching_fixture,2.0,p88,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g88,dev
+practice-089,en,Give me a sports news briefing.,news_query,starter_teaching_fixture,2.0,p89,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g89,test
+practice-090,en,I want to hear the current news headlines.,news_query,starter_teaching_fixture,2.0,p90,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g90,test
+practice-091,en,What does biodiversity mean?,qa_definition,starter_teaching_fixture,2.0,p91,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g91,train
+practice-092,en,Define photosynthesis.,qa_definition,starter_teaching_fixture,2.0,p92,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g92,train
+practice-093,en,Explain the meaning of algorithm.,qa_definition,starter_teaching_fixture,2.0,p93,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g93,train
+practice-094,en,What is the definition of conservation?,qa_definition,starter_teaching_fixture,2.0,p94,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g94,train
+practice-095,en,What is meant by evaporation?,qa_definition,starter_teaching_fixture,2.0,p95,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g95,train
+practice-096,en,Explain the word resilience.,qa_definition,starter_teaching_fixture,2.0,p96,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g96,train
+practice-097,en,Give me a definition of sustainability.,qa_definition,starter_teaching_fixture,2.0,p97,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g97,dev
+practice-098,en,What does the term ecosystem mean?,qa_definition,starter_teaching_fixture,2.0,p98,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g98,dev
+practice-099,en,Define the concept of recursion.,qa_definition,starter_teaching_fixture,2.0,p99,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g99,test
+practice-100,en,Tell me the meaning of democracy.,qa_definition,starter_teaching_fixture,2.0,p100,not_applicable,practice_fixture,CC0,P1,P2,independently_reviewed,g100,test
